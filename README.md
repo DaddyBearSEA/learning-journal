@@ -18,6 +18,35 @@ I had a Hotel Manager that taught me that a client issue is an opportunity to sh
 `[` hyperlink text `]``(`webaddress`)`
 
 ### Lists numbered and bulleted
+Numbered lists are 
+`1. 
+2. 
+3. 
+` or
+`1. 
+1.
+1.
+` The `1` multiple times is easier cause long lists you don't have to worry about the numbering of the list
+`*` or `-` are used for bullets and spacing after would indent and make the bullet different
+
+Here is a bullet list done with `*`
+* Bullet one
+* Bullet two
+  * first indent item one
+    * second indent item one
+    * second indent item two
+  * first indent item two
+  * first indent item three
+
+
+Here is a bullet list done with `-`
+- Bullet one
+- Bullet two
+  -  first indent item one
+     - second indent item one
+     - second indent item two
+  - first indent item two
+  - first indent item three
 
 
 
