@@ -19,15 +19,20 @@ I had a Hotel Manager that taught me that a client issue is an opportunity to sh
 
 ### Lists numbered and bulleted
 Numbered lists are 
-1. 
-2. 
-3. 
+1. Item 1
+2. Item 2
+3. Item 3
+
  or
-1.
-1.
-1.
-` The `1` multiple times is easier because long lists you don't have to worry about the numbering of the list
-`*` or `-` are used for bullets and spacing after would indent and make the bullet different
+ 
+1. Item 1
+1. Item 2
+1. Item 3
+
+The `1` multiple times is easier because long lists you don't have to worry about the numbering of the list
+
+
+**`*` or `-` are used for bullets and spacing after would indent and make the bullet different**
 
 Here is a bullet list done with `*`
 * Bullet one
