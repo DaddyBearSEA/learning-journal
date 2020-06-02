@@ -13,7 +13,7 @@ I had a Hotel Manager that taught me that a client issue is an opportunity to sh
 ## I am very excited to be doing this. I got out of it 15 years ago as a Project Manager, when I really wanted to be coding
 
 
-## Markdown Notes - https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+## Markdown Notes - [Markdown Basic Writing / Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 > hyperlink is a Square Bracket followed w/o spaces in a normal bracket
 `[` hyperlink text `]``(`webaddress`)`
 
