@@ -11,3 +11,15 @@ I had a Hotel Manager that taught me that a client issue is an opportunity to sh
 1. You can learn from eveyrone, In massage, the patient is the teacher, the therapist is only the fascilitator.
 
 ## I am very excited to be doing this. I got out of it 15 years ago as a Project Manager, when I really wanted to be coding
+
+
+## Markdown Notes - https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+> hyperlink is a Square Bracket followed w/o spaces in a normal bracket
+`[` hyperlink text `]``(`webaddress`)`
+
+### Lists numbered and bulleted
+
+
+
+
+https://daddybearsea.github.io/learning-journal/
