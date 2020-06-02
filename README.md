@@ -1,6 +1,6 @@
 # Hello World - 
 # It's Michael Mandell
-## Cis-gender Gay Male / Him / He  Github is [Michael Mandell] (https://github.com/DaddyBearSEA)
+## Cis-gender Gay Male / Him / He  Github is [Michael Mandell](https://github.com/DaddyBearSEA)
 ## What is growth mindset
 Right Side brain / Left Side Brain - Massage therapist have to use both sides. Creative, but science based. Growth mindset uses growth (left brain) and fixed (right). Growth mindset is looking at situations with open arms, embrace the challenges, learn from mistakes and stop the insanity 
 >doing the same thing over and over with the same results *101
@@ -9,4 +9,5 @@ I had a Hotel Manager that taught me that a client issue is an opportunity to sh
 1. Keep and open mind and look at issues from all angles - you are hear to learn and grow
 1. Obstacles are just barriers to break down and *Seize the Opportunity*
 1. You can learn from eveyrone, In massage, the patient is the teacher, the therapist is only the fascilitator.
+
 ## I am very excited to be doing this. I got out of it 15 years ago as a Project Manager, when I really wanted to be coding
