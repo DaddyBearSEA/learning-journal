@@ -1,7 +1,33 @@
 # Hello World - 
 # It's Michael Mandell
 ## Cis-gender Gay Male / Him / He  Github is [Michael Mandell](https://github.com/DaddyBearSEA)
+
+## 02JUN2020
+today is all about setting up the computer. To have everything local on my hard drive. It's been awhile since I had to do command prompts from the OLD DOS days, but doesn't look like it's changed that much
+
+- Print working directory **'pwd'**
+- list the documents, file folders and misc in the directory **'ls'**
+- Change directory **'cd'**
+  - change directory forward **'cd / name of dir'**
+  - change directory backward **'cd ..'**
+- You can always get help with the following after the command **' --help'** 
+  - 'ls --help'
+  -  'pwd --help'
+  - 'cd --help'
+
+
+
+
 ![pancake bfast](20200602_132101.jpg "bfast 2JUN2020")
+
+
+
+
+
+
+
+
+# 01JUN2020
 ## What is growth mindset
 Right Side brain / Left Side Brain - Massage therapist have to use both sides. Creative, but science based. Growth mindset uses growth (left brain) and fixed (right). Growth mindset is looking at situations with open arms, embrace the challenges, learn from mistakes and stop the insanity 
 >doing the same thing over and over with the same results *101
