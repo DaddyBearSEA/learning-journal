@@ -1,6 +1,7 @@
 # Hello World - 
 # It's Michael Mandell
 ## Cis-gender Gay Male / Him / He  Github is [Michael Mandell](https://github.com/DaddyBearSEA)
+![pancake bfast](20200602_132101.jpg "bfast 2JUN2020")
 ## What is growth mindset
 Right Side brain / Left Side Brain - Massage therapist have to use both sides. Creative, but science based. Growth mindset uses growth (left brain) and fixed (right). Growth mindset is looking at situations with open arms, embrace the challenges, learn from mistakes and stop the insanity 
 >doing the same thing over and over with the same results *101
