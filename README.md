@@ -1,6 +1,6 @@
 # Hello World - 
 # It's Michael Mandell
-## Cis-gender Gay Male / Him / He  Github is [Michael Mandell](https://github.com/DaddyBearSEA)
+##### Cis-gender Gay Male / Him / He  Github is [Michael Mandell](https://github.com/DaddyBearSEA)
 
 ## 02JUN2020
 today is all about setting up the computer. To have everything local on my hard drive. It's been awhile since I had to do command prompts from the OLD DOS days, but doesn't look like it's changed that much
@@ -14,7 +14,14 @@ today is all about setting up the computer. To have everything local on my hard 
   - 'ls --help'
   -  'pwd --help'
   - 'cd --help'
-
+- Everything is a file and the type of file is the '.ABC' after
+  - '.jpg'
+  - '.png'
+  - '.jpeg'
+  - '.gif'
+  - '.txt'
+  - '.pdf'
+ - why type ' ' ' rather than ' " ' due to number of key strokes
 
 
 
