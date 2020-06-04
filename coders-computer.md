@@ -1,6 +1,8 @@
 ## 02JUN2020
-#### Day 2 of 102
-today is all about setting up the computer. To have everything local on my hard drive. It's been awhile since I had to do command prompts from the OLD DOS days, but doesn't look like it's changed that much
+#### Day 2 of 102 
+Today is all about setting up the computer. To have everything local on my hard drive. It's been awhile since I had to do command prompts from the OLD DOS days, but doesn't look like it's changed that much. 
+
+ <img src="images/porkchop.jpg" height="200px" width="150px" align="right" > 
 
 - Print working directory **'pwd'**
 - list the documents, file folders and misc in the directory **'ls'**
@@ -22,5 +24,5 @@ today is all about setting up the computer. To have everything local on my hard 
 
 
 
-![pancake bfast](20200602_132101.jpg "bfast 2JUN2020")
+
 

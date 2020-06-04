@@ -1,6 +1,6 @@
 # GIT and GITHUB
 
-### Key Terms
+### Key Terms 03JUN2020
 
 **VCS**
 
@@ -9,7 +9,7 @@ Version control - there is version control in Local, Central and Distributed
 **Git vs Github**
 
 Git is the code to manipulate the files and repository. Contorls the versions or snapshots of the repository
-Github is where the repository is maintained
+Github is where the repository is maintained and lives
 
 **Local vs Remote**
 
