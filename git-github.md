@@ -13,17 +13,20 @@ Remote is on the GITHUB
 Cloning is creating a copy of the repository into a test directory of the URL
 > By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
 
-To clone a repository into a directory with another name of your choosing, use the following command format:
 
 
-Commit
 
-ACP
+**Commit**
+commit command will commit the changes you have made.  there are other commands that allow you to hide your changes until your're ready to commit them for real
+
+**ACP*
 
 
-Deployment
+
+**Deployment**
 
 
+## Here are some sample codes to try
 Check Settings
 To check settings, use the git config --list command.
 
