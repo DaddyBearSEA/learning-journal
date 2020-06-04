@@ -59,3 +59,6 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 Rendered table with varied cell width
+
+
+[go back](README.md)

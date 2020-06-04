@@ -1,6 +1,10 @@
 # GIT and GITHUB
 
-### Key Terms 03JUN2020
+### Key Terms 03JUN2020 
+
+#### [Syntax Blog for GIT](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_3)
+
+<img src ="images/lillies.jpg" height="300px" align = "right">
 
 **VCS**
 
@@ -38,7 +42,7 @@ get push will push the files
 **Deployment**
 
 
-## Here are some sample codes to try
+## **Here are some sample codes to try**
 Check Settings
 To check settings, use the git config --list command.
 
@@ -46,18 +50,19 @@ Example:
 
 $ git config --list
 
-user.name=Jane Smith
+>user.name=Jane Smith
 
-user.email=example@email.com
+>user.email=example@email.com
 
-color.status=auto
+>color.status=auto
 
-color.branch=auto
+>color.branch=auto
 
-color.interactive=auto
+>color.interactive=auto
 
 
-Getting Help
+
+## Getting Help
 There are three ways to get more information on a particular command, by accessing the manual:
 
 git help command
@@ -65,3 +70,6 @@ git help command
 git command --help
 
 man git-command
+
+
+[go back](README.md)
