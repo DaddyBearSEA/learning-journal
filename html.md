@@ -69,6 +69,11 @@ A new linking around block-level elements using the 'a href' tag
 ## Chapter 8 - Extra Markup
 Page 177
 
+Concepts are
+- specifying different versions of HTML
+- Identifying and groupoing elements
+- comments, meta information and iframes
+
 
 
 
