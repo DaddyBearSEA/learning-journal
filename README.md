@@ -11,7 +11,7 @@
 - [Markdown Notes June 2, 2020](markdown-notes.md)
 - [Coders Computer June 2, 2020](coders-computer.md)
 - [Git vs. Github June 3, 2020](git-github.md)
-
+- [Structure Web pages with HTML June 4, 2020](html.md)
 
 
 
