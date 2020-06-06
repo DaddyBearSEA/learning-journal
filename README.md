@@ -11,7 +11,12 @@
 - [Markdown Notes June 2, 2020](markdown-notes.md)
 - [Coders Computer June 2, 2020](coders-computer.md)
 - [Git vs. Github June 3, 2020](git-github.md)
-- [Structure Web pages with HTML June 4, 2020](html.md)
+- [Structure Web pages with HTML June 4, 2020](html-notes.md)
+- [CSS Notes June 5 2020 AM Class](css-notes.md)
+- [Java Script Notes June 5 2020 PM Class](js-notes.md)
+
+Work in Progress
+- [Class HTML Project](https://daddybearsea.github.io/class-project/)
 
 
 
