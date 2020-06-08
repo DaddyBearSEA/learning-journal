@@ -17,7 +17,7 @@
 - [Java Script Programming June 8, 2020](js-program.md)
 
 Work in Progress
-- [Class HTML Project](https://daddybearsea.github.io/class-project/)
+- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)
 
 <img src="images/thaimaitai.jpg" height="300" align="left" style="border:10px solid black">
 

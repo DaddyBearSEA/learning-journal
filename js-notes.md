@@ -1,8 +1,11 @@
 JavaScript - 
 NEW BOOK - 
+
 Page 43 - 69
 
-[All code for book is here](http://www.javascriptbook.com)
+<img src="images/bsandwich.jpg" height="300px" align="center">
+
+[All code for book is here](http://www.javascriptbook.com) 
 
 Magic happens here!
 There's a lot of code you'll get
@@ -48,3 +51,4 @@ Variables Naming Rules
 	
 
 
+[go back](README.md)

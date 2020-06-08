@@ -4,7 +4,7 @@ Page 227 Chapter 12
 
 
 
-- CSS
+- CSS <img src="images/eggnog.jpg" height="300px" align="right">
 
 • RGB  red Green Blue
 
@@ -49,3 +49,6 @@ Curly braces - used to created the code for the CSS and is also used in JS
 ## Class and ID Attributes
 Difference between id and class attribute: The only difference between them is that “id” is unique in a page and can only apply to at most one element, while “class” selector can apply to multiple elements. 
 > [GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/#:~:text=Difference%20between%20id%20and%20class,can%20apply%20to%20multiple%20elements.)
+
+
+[go back](README.md)
