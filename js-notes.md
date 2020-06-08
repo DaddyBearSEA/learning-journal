@@ -2,7 +2,7 @@ JavaScript -
 NEW BOOK - 
 Page 43 - 69
 
-![All code for book is here](http://www.javascriptbook.com)
+[All code for book is here](http://www.javascriptbook.com)
 
 Magic happens here!
 There's a lot of code you'll get
