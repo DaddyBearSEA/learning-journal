@@ -42,9 +42,9 @@ X - 42  x is a variable
 Username="michael"
 
 Variables Naming Rules
-	1. Variable name cannot beging with a  Number. Appropriate Variable name begins with a "letter", "_" or "$"
-	2. Variable name can not have a "dash" or preiod "." in it's name
-	3. No keywords or reserved words
+1.  Variable name cannot beging with a  Number. Appropriate Variable name begins with a "letter", "_" or "$"
+2. Variable name can not have a "dash" or preiod "." in it's name
+3. No keywords or reserved words
 	
 
 

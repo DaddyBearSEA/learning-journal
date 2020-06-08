@@ -34,13 +34,18 @@ p {
 
 
 
-• Selector 
+- Selector 
+	Emmet Syntax allows you to put a few letters in and you get the syntax.  There is so much more to explore.  
 
-• Property & value
-Property - Color is the property
-Value - Black is the Value
+#### Property & value
+- Property - Color is the property
+- Value - Black is the Value
 
 Declaration - property value pair
 
 
 Curly braces - used to created the code for the CSS and is also used in JS
+
+## Class and ID Attributes
+Difference between id and class attribute: The only difference between them is that “id” is unique in a page and can only apply to at most one element, while “class” selector can apply to multiple elements. 
+> [GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/#:~:text=Difference%20between%20id%20and%20class,can%20apply%20to%20multiple%20elements.)

@@ -18,6 +18,9 @@
 Work in Progress
 - [Class HTML Project](https://daddybearsea.github.io/class-project/)
 
+## Other Links
+Good videos on Computers and [computer programming](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
 
 
 
