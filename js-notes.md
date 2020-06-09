@@ -7,6 +7,10 @@ Page 43 - 69
 
 [All code for book is here](http://www.javascriptbook.com) 
 
+
+Rewatch Video on FrontRow  Time: 2:16
+
+
 Magic happens here!
 There's a lot of code you'll get
 

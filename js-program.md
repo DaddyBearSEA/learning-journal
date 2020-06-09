@@ -20,26 +20,27 @@ Functions: 88 - 94**
     1. Uses two or more values to return a single value
 
 ### Operator
-> document.write is an operator - the stored code that does something unique
+> math operators '=' '+' '*' '/'  multiply and divide, plus and minus 
+> order of operation matters here
 
 **Function**
 
 > A group of statements that make up a specific task
 
-**Declaration**
+> **Declaration**
 
-> Nameing and setting a variable
+    > Nameing and setting a variable
 
-**Call**
+> **Call**
 
-> Using or Calling out the varialbe
+    > Using or Calling out the varialbe
 
-**Parameters**
+> **Parameters**
 
-> What is a varaiable set too are the parameters
+    > What is a varaiable set too are the parameters
 
-**Arguments**
-
+> **Arguments**
+    >
 
 **Return value**
 
