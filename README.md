@@ -15,6 +15,7 @@
 - [CSS Notes June 5 2020 AM Class](css-notes.md)
 - [Java Script Notes June 5 2020 PM Class](js-notes.md)
 - [Java Script Programming June 8, 2020](js-program.md)
+- [Loops and Operators](loops-notes.md)
 
 Work in Progress
 - [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)

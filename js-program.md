@@ -54,4 +54,14 @@ Functions: 88 - 94**
 
 **NOTE:** naming a variable is important. see Page 69 for rules on nameing a variable
 
+#### why Use functions
+- don't repeast yourself
+- what does name imply? --- what the function "does"
+- avoid repreatted code?  why? single point of "truth"
+
+## What is a function
+- Reuseable step by step chung of code
+- does it run faster? No
+- 
+
 [go back](README.md)
