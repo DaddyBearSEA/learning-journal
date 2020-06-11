@@ -34,9 +34,15 @@ Good videos on Computers and [computer programming](https://www.youtube.com/play
 
 [FrontRow](https://frontrowviews.com/Home/Event/ProviderDetails/5a83c3f209310b1d68d45c46)
 
+[Class 102 Repo](https://github.com/codefellows/seattle-102n51)
 
 
-***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
+
+
+
+
+
+###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
 
 
 

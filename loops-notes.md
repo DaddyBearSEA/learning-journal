@@ -5,33 +5,33 @@ Page 150-151, 156, 157, 170-173, 176
 
 <img src="images/chocchip.jpg" height="300px" align ="center">
 
-- loop
-> just as it says, you loop through code until a certain condition is set to false  a condition would be met and then the code would stop running
+### loop
+just as it says, you loop through code until a certain condition is set to false.  A condition would be met and then the code would stop running.
 
-- while
-> code that is run until a condition is met. 'while' something else is being done
+### while
+code that is run until a condition is true. Once False is obrained the code stops running
 
-- for
-> For loop uses a counter as a condition
+### for
+For loop uses a counter as a condition
 
-- condition
-> A Condition is a specific True or FALSE statment
+### condition
+A Condition is a specific True or FALSE statment
 
-- increment
-> 'i++'
+### increment
+``` 'i++' ```
 
-- decrement
-> 'i--'  
+###decrement
+``` 'i--'  ```
 
 Logical Operators
 
-'||'  logical or
+``` '||' ```  logical or
 
-'&&' logical and
+``` '&&' ``` logical and
 
-` !  Bang
-` !== - not strickly equal
-` <=  Less than or equal to
+``` !  Bang ```
+``` !== - not strickly equal```
+``` <=  Less than or equal to ```
 
 
 
@@ -43,18 +43,20 @@ Logical Operators
 
     // do this other thing
 
-}
-```
+ } ```
 
-```
+
+
   
-  while(true){
+```  while(true){
 
        // do the thing
 
 }
 ```
+
 This FOR loop is very important
+
 ```
   var count = 5
 
