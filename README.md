@@ -13,6 +13,7 @@
 - [Git vs. Github June 3, 2020](git-github.md)
 - [Structure Web pages with HTML June 4, 2020](html-notes.md)
 - [CSS Notes June 5 2020 AM Class](css-notes.md)
+- [Computer Architecture June 5, 2020](computer-arch.md)
 - [Java Script Notes June 5 2020 PM Class](js-notes.md)
 - [Java Script Programming June 8, 2020](js-program.md)
 - [Loops and Operators](loops-notes.md)
