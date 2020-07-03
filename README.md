@@ -5,7 +5,7 @@
  
 
 
-## Table of Contents <img src ="images/berlinsky.jpg" align ="right" height="300">
+## Table of Contents <img src ="images/berlinsky.jpg" align ="right" valign="center" height="300">
 
 - [Growth Mindset June 1, 2020](growth-mindset.md)
 - [Markdown Notes June 2, 2020](markdown-notes.md)
@@ -18,8 +18,18 @@
 - [Java Script Programming June 8, 2020](js-program.md)
 - [Loops and Operators](loops-notes.md)
 
-Work in Progress
-- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)
+
+| Work in Progress 	|  Seven Pillars of Career Coaching	| 
+|-	|-	|
+|  [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/) 	|  1. Professional Etiquette	|  
+|  	| 2. Professional Pitch 	| 
+|  	| 3. Createing a Network	|
+|  	| 4. Job Search Readiness 	|
+|  	| 5. Targeted Job Search	|
+|  	| 6. Professional Materials 	|
+|  	| 7. Beahvioral Interview Questions	|
+
+
 
 <img src="images/thaimaitai.jpg" height="300" align="left" style="border:10px solid black">
 
@@ -44,6 +54,8 @@ Good videos on Computers and [computer programming](https://www.youtube.com/play
 
 
 ###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
+
+
 
 
 
