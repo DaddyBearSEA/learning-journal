@@ -6,6 +6,40 @@
 
 <img src ="images/lillies.jpg" height="300px" align = "right">
 
+ACP - Add / Commit / Push
+
+`git status ` 
+> allows you to see what files have changed
+
+
+`git add [filename] ` 
+> add the files names that you want to push up to the repository  
+
+`git add *`
+> another command to add all files. Use a filename instead of this "catchall" as you need to know which files you are committing to the repository
+
+`git commit -m "Your Messsage " ` 
+ >adds a comment to the files that are updated to the repository on the version control. Message should be something everyone can understand
+
+`git push origin master`
+> pushes all files that have been added up to the repository
+
+
+` git clone [https://your repository file]`
+> clones the file directory/repository from github. Copy/Paste
+> copy the address from github
+> paste into Ubuntu
+
+**Remove File from local**
+
+`git rm [filename]`
+> removes the file from the local directory
+
+
+
+
+
+
 **VCS**
 
 Version control - there is version control in Local, Central and Distributed

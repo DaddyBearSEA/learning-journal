@@ -1,4 +1,8 @@
 ## Markdown Notes - [Markdown Basic Writing / Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+
 > hyperlink is a Square Bracket followed w/o spaces in a normal bracket
 `[` hyperlink text `]``(`webaddress`)`
 
